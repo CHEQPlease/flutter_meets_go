@@ -4,7 +4,7 @@ A Flutter application that demonstrates how to integrate Go code with Flutter us
 
 ## Overview
 
-![0228 (1)](https://github.com/user-attachments/assets/e0a6fa93-3b05-41ea-808b-486a3db88f5a)
+<video src="https://github.com/itsniaz/Flutter-Nested-Navigation/assets/25644101/7df28463-e5ca-4848-8f7f-86742b1cd2e1" width="30%" controls> </video>
 
 This project showcases how to leverage Go's powerful features within a Flutter application through FFI (Foreign Function Interface). As a practical example, the app allows users to enter a GitHub username and fetch their profile avatar using a Go function that makes HTTP requests.
 
